@@ -47,7 +47,7 @@
     left: 0;
     width: 80px;
     height: 4px;
-    background: linear-gradient(90deg, #6366f1 0%, #8b5cf6 100%);
+    background: linear-gradient(90deg, #1D6F8A 0%, #1D6F8A 100%);
     border-radius: 2px;
   }
 
@@ -87,7 +87,7 @@
     left: -20px;
     width: 340px;
     height: 340px;
-    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+    background: linear-gradient(135deg, #1D6F8A 0%, #1D6F8A 100%);
     border-radius: 50%;
     z-index: 1;
   }
@@ -106,7 +106,7 @@
   .founder-title {
     font-size: 1.1rem;
     font-weight: 500;
-    color: #6366f1;
+    color:#1D6F8A;
     margin-bottom: 24px;
     letter-spacing: 0.5px;
   }

@@ -1,17 +1,20 @@
 :root {
-    --primary: #26b980;
-    --primary-dark: #1a8c60;
-    --primary-light: #e6f7f1;
-    --accent: #6c5ce7;
-    --accent2: #ff7675;
-    --accent3: #fdcb6e;
-    --dark: #2d3436;
+    --primary: #2BBE9F;      
+    --primary-dark: #2BBE9F;   
+    --primary-light: #e0f7f5;   
+    
+    --accent: #1D6F8A;        
+    --accent2:#1D6F8A;        
+    --accent3: #a5d6f9;         
+  
+    --dark: #1a1a1a;
     --gray: #636e72;
     --light-gray: #f5f5f7;
     --white: #ffffff;
+  
     --radius: 12px;
     --shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-}
+  }
 * {
     margin: 0;
     padding: 0;
@@ -107,7 +110,7 @@ nav a:hover::after {
     cursor: pointer;
     transition: all 0.3s;
     font-size: 16px;
-    box-shadow: 0 5px 15px rgba(38, 185, 128, 0.3);
+    box-shadow: 0 5px 15px rgba(82, 209, 160, 0.3);
 }
 
 .login-btn:hover {
